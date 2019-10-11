@@ -1,4 +1,4 @@
-module monis.app/go
+module github.com/openshift/operator-boilerplate
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
