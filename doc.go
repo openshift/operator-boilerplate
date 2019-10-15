@@ -1,1 +1,1 @@
-package _go // import "monis.app/go"
+package _go // import "github.com/openshift/operator-boilerplate"

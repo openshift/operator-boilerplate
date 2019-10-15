@@ -1,4 +1,4 @@
-# Operator Boilerplate
+# Operator Boilerplate (Legacy)
 
 Operator Boilerplate is a tiny library containing a few helpers to make writing an operator or custom controller easier by abstracting some of the repetitive mechanisms common to most controllers. 
 

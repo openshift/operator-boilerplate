@@ -1,9 +1,8 @@
 package operator
 
 import (
-	"k8s.io/apimachinery/pkg/apis/meta/v1"
-
-	"monis.app/go/openshift/controller"
+	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
+	"github.com/openshift/operator-boilerplate-legacy/openshift/controller"
 )
 
 type KeySyncer interface {

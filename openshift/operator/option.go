@@ -1,9 +1,9 @@
 package operator
 
 import (
-	"k8s.io/apimachinery/pkg/apis/meta/v1"
+	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	"monis.app/go/openshift/controller"
+	"github.com/openshift/operator-boilerplate-legacy/openshift/controller"
 )
 
 type Option func(*operator)
