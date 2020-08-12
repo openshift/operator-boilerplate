@@ -3,7 +3,7 @@ package operator
 import (
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	"github.com/openshift/operator-boilerplate-legacy/openshift/controller"
+	"github.com/openshift/operator-boilerplate-legacy/pkg/controller"
 )
 
 type Option func(*operator)
