@@ -1,6 +1,6 @@
 package operator
 
-import "monis.app/go/openshift/controller"
+import "github.com/openshift/operator-boilerplate-legacy/pkg/controller"
 
 type Runner interface {
 	Run(stopCh <-chan struct{})
